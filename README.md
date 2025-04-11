@@ -13,6 +13,15 @@ Whether you're risk-averse or an aggressive investor, Investly tailors the alloc
 
 ---
 
+## 🌐 Live Demo
+
+Check out the live version of Investly here:  
+🔗 [https://investly-eight.vercel.app/](https://investly-eight.vercel.app/)
+
+> ⚠️ Note: The app currently uses a limited API plan which restricts market data fetches to **5 calls per day**. For heavy usage or production deployment, consider upgrading the API plan or caching responses.
+
+---
+
 ## 🚀 Features
 
 - 📈 **Real-time financial data** using TradingView API
